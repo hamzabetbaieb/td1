@@ -1,1 +1,2 @@
 code dans fichier1
+code dans fichier1 apres modification
